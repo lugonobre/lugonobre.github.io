@@ -13,6 +13,7 @@ $header_classes = apply_filters( 'nv_header_classes', 'header' );
 <html <?php language_attributes(); ?>>
 
 <head>
+	<meta name="google-site-verification" content="fsq2A_AiMAmK5qKLzxu3r3dtwdi-jJXlFRcpxWl6xLk" />
 	<meta charset="<?php bloginfo( 'charset' ); ?>">
 	<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
 	<link rel="profile" href="http://gmpg.org/xfn/11">
